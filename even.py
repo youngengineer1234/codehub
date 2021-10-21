@@ -1,0 +1,1 @@
+#Create a program to know whether a number is even or not.
